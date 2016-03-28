@@ -8,7 +8,7 @@ some information about file
 
 some random image
 
-![Image of kitten] (https://github.com/natallia-roi/Test/blob/master/images.jpg)
+![Image of kitten] (https://github.com/natallia-roi/newrepos/blob/master/tutorials/folder/PlutoEnhanced_NewHorizons_1920.jpg)
 
 
 ##end
