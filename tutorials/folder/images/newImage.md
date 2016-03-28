@@ -15,4 +15,4 @@ look like:
 
 Note that --- not considering the asterisk --- the actual text
 content starts at 4-columns in.
-![Image] (https://github.com/natallia-roi/Test/blob/master/tutorials/new/PlutoEnhanced_NewHorizons_1920.jpg)
+![Image] (https://raw.githubusercontent.com/natallia-roi/newrepos/master/tutorials/folder/PlutoEnhanced_NewHorizons_1920.jpg)
