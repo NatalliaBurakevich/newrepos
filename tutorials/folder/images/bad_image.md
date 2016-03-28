@@ -3,4 +3,4 @@ title:bad_image
 description:bad_image
 tags: [tutorial:technology/github]
 ---
-![badImage](https://github.com/natallia-roi/Test/blob/master/tutorials/new/images/Document.jpg)
+![badImage](https://github.com/natallia-roi/newrepos/blob/master/tutorials/folder/images/Document.jpg)
