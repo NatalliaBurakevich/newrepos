@@ -5,5 +5,5 @@ tags: [tutorial:technology/github]
 ---
 lihzbkv
 -------
-![badImage](http://cdn.resimkoy.xyz/2015/12/03/imagenes-full-hd-1080p-taringa.jpg)
+-![badImage](http://cdn.resimkoy.xyz/2015/12/03/imagenes-full-hd-1080p-taringa.jpg)
 
