@@ -18,6 +18,6 @@ tags: [tutorial:interest/sap_cal, tutorial:interest/cloud]
 
 Item      | Value | Quantity | Value   |
 :-------- |-----: | :-------:| :-------|
-Computer  | 1600  | 3        | 5       |
+Computer  | 16  | 3        | 5       |
 Phone     | 12    | 2        | 7       |
 Pipe      | rrr   | 1        |49       |
