@@ -29,3 +29,7 @@ window.onbeforeunload = function() {
     }
 };
 ```
+
+Use the backtick to refer to a `function()`.
+ 
+There is a literal ``backtick (`)`` here.
