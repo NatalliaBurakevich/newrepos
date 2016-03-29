@@ -16,8 +16,8 @@ tags: [tutorial:interest/sap_cal, tutorial:interest/cloud]
 | Monday  |ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt| $6    |
 | Tuesday |:some text:| $8    |
 
-Item      | Value | Quantity
-:-------- |-----: | :-------:
-Computer  | 1600  | 3
-Phone     | 12    | 2
-Pipe      | rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr     | 1
+Item      | Value | Quantity | Value   |
+:-------- |-----: | :-------:| :-------|
+Computer  | 1600  | 3        | 5       |
+Phone     | 12    | 2        | 7       |
+Pipe      | rrr   | 1        |49       |
