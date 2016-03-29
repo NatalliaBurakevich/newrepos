@@ -7,5 +7,5 @@ tags: [tutorial:technology/github]
 *Italic characters* 
 _Italic characters_
 **bold characters**
-__bold characters__
+***bold characters***
 ~~strikethrough text~~
