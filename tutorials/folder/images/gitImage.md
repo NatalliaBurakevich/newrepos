@@ -8,7 +8,7 @@ some information about file
 
 some random image
 
-![Image of kitten] (/folder/PlutoEnhanced_NewHorizons_1920.jpg)
+![Image of kitten] (folder/PlutoEnhanced_NewHorizons_1920.jpg)
 
 
 ##end
