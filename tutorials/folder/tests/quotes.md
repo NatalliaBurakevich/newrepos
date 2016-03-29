@@ -7,10 +7,9 @@ tags: [tutorial:technology/github]
 ntroducing my quote:
 
 > Neque porro quisquam est qui 
->>> dolorem ipsum quia dolor sit amet, 
->> consectetur, adipisci velit...
+>> dolorem ipsum quia dolor sit amet, 
+>>> consectetur, adipisci velit...
 >Neque porro quisquam est qui 
->>Neque porro quisquam est qui 
 
 >Neque porro quisquam est qui 
 dolorem ipsum quia dolor sit amet, 
