@@ -86,7 +86,12 @@ window.onbeforeunload = function() {
     }
 };
 ```
-
+```java
+int [] mas = new int mas [x];
+for(int i=0; i<=x;i++)
+System.out.print(mas[i]);
+};
+```
 Use the backtick to refer to a `function()`.
  
 There is a literal ``backtick (`)`` here.
