@@ -1,6 +1,6 @@
 ---
-title:bad_image
-description:bad_image
+title:check-file
+description:check-file
 tags: [tutorial:technology/github]
 ---
 fdsgbfd
