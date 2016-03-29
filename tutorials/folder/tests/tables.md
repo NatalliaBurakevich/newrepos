@@ -17,7 +17,7 @@ tags: [tutorial:interest/sap_cal, tutorial:interest/cloud]
 | Tuesday |:some text:| $8    |
 
 Item      | Value | Quantity
-:-------- |:-----:| -------:
-Computer  |: 1600  | 3
-Phone     | 12    :| 2
+:-------- |-----: | :-------:
+Computer  | 1600  | 3
+Phone     | 12    | 2
 Pipe      | rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr     | 1
