@@ -30,7 +30,7 @@ window.onbeforeunload = function() {
     }
 };
 ```
-```html
+```random
 int [] mas = new int mas [x];
 for(int i=0; i<=x;i++)
 System.out.print(mas[i]);
